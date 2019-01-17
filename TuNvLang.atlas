@@ -1,0 +1,139 @@
+
+TuNvLang.png
+size: 555,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TieTu/Arm_L
+  rotate: false
+  xy: 439, 44
+  size: 103, 101
+  orig: 103, 102
+  offset: 0, 1
+  index: -1
+TieTu/Arm_R_1
+  rotate: false
+  xy: 303, 79
+  size: 134, 113
+  orig: 134, 113
+  offset: 0, 0
+  index: -1
+TieTu/Arm_R_2
+  rotate: true
+  xy: 171, 2
+  size: 96, 115
+  orig: 96, 115
+  offset: 0, 0
+  index: -1
+TieTu/Body
+  rotate: false
+  xy: 2, 62
+  size: 167, 491
+  orig: 167, 491
+  offset: 0, 0
+  index: -1
+TieTu/ErHuan
+  rotate: false
+  xy: 413, 55
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+TieTu/Eye_L
+  rotate: false
+  xy: 356, 4
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+TieTu/Eye_R
+  rotate: false
+  xy: 490, 12
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+TieTu/Head
+  rotate: true
+  xy: 439, 147
+  size: 102, 114
+  orig: 109, 114
+  offset: 7, 0
+  index: -1
+TieTu/Leg_L
+  rotate: false
+  xy: 171, 100
+  size: 130, 246
+  orig: 130, 246
+  offset: 0, 0
+  index: -1
+TieTu/LinJie
+  rotate: true
+  xy: 413, 2
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+TieTu/Mouth
+  rotate: false
+  xy: 444, 6
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+TieTu/TuEr
+  rotate: true
+  xy: 405, 393
+  size: 160, 127
+  orig: 160, 127
+  offset: 0, 0
+  index: -1
+TieTu/TuErJian
+  rotate: true
+  xy: 81, 4
+  size: 56, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+TieTu/Xiong_L
+  rotate: false
+  xy: 2, 8
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+TieTu/Xiong_R
+  rotate: false
+  xy: 288, 21
+  size: 66, 56
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+TieTu/hair1
+  rotate: true
+  xy: 303, 194
+  size: 152, 119
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+TieTu/hair2
+  rotate: false
+  xy: 424, 251
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+TieTu/hair3
+  rotate: false
+  xy: 171, 348
+  size: 232, 205
+  orig: 232, 218
+  offset: 0, 13
+  index: -1
+XingGuang
+  rotate: false
+  xy: 356, 35
+  size: 55, 42
+  orig: 57, 57
+  offset: 1, 7
+  index: -1
